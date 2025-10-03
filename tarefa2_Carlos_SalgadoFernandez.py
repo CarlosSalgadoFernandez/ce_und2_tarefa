@@ -13,8 +13,10 @@ fake = Faker('es_ES')
 # Creo un diccionario valeiro para meter os datos que se xeren
 usuarios = {}
 
-"""Xeramos os usuarios.
-Ó crear un bucle for entre 1 e 16 cada usuario xa ten un código único"""
+"""
+Xeramos os usuarios.
+Ó crear un bucle for entre 1 e 16 cada usuario xa ten un código único
+"""
 for i in range(1, 16):
     usuarios[i] = {
         "nombre": fake.name(),

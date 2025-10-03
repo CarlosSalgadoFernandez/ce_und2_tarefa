@@ -15,3 +15,9 @@ Despois, o programa seleccionará aleatoriamente a un dos usuarios para mostrar 
 
 Debes desenvolver o programa empregando Git e GitHub. Podes crear un repositorio público en GitHub coa túa conta de usuario para logo compartilo co profesor.
 Debes empregar un contorno virtual e xerar o ficheiro de dependencias, de forma que cando o profesor clone o teu repositorio poida instalar automaticamente todos os paquetes necesarios a través dese ficheiro.
+
+## Comentarios:
+
+**Documentación da librería usada:** https://faker.readthedocs.io/en/master/
+
+**Datos correo:** Ó xerarse datos aleatorios os correos non teñen relación co nome usuario xerado, deixo o programa así por simplicidade xa que isto non afecta á funcionalidade do mesmo.
